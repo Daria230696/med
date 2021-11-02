@@ -118,7 +118,7 @@ body .header .header_bottom .header_bottom_right {
   width: 100%;
   align-items: center;
 }
-body .header .header_bottom .header_bottom_right .social-networks img {
+body .header .header_bottom .header_bottom_right .social-networks a {
   margin-right:4px;
           }
 body .header .header_bottom .header_bottom_menu {
